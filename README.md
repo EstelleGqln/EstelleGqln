@@ -1,4 +1,4 @@
-### Hi there 👋
+New to GitHub and trying things out!
 
 <!--
 **EstelleGqln/EstelleGqln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
